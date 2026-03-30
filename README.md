@@ -80,17 +80,6 @@
 
 ---
 
-### 🔥 Most Used Languages:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishagarg327&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 Contribution Snake:
-<p align="center">
-<img src="https://raw.githubusercontent.com/anishagarg327/anishagarg327/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
