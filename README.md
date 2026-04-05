@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Developer | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Information+Technology+Student;Angular+Developer;100%2B+LeetCode+Problems;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Information+Technology+Student;100%2B+LeetCode+Problems;Open+Source+Enthusiast" />
 </p>
 
 ---
