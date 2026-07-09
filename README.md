@@ -11,10 +11,10 @@
 
 ### 👩‍💻 About Me:
 - 🎓 B.Tech IT @ **Bharati Vidyapeeth’s College of Engineering**
-- 📊 CGPA: **9.02**
+- 📊 CGPA: **9.09**
 - 💻 Software Engineer Intern @ **Commudle**
 - 🌱 Currently learning **Advanced Web Development & DSA**
-- 🧠 Solved **100+ LeetCode problems**
+- 🧠 Solved **200+ LeetCode problems**
 - ⚡ Strong in **Angular, TypeScript & Frontend Development**
 
 ---
@@ -36,7 +36,7 @@
 
 ### 🛠️ Tech Stack:
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,js,ts,angular,bootstrap,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,js,ts,angular,react,bootstrap,tailwind,git,github,vscode" />
 </p>
 
 ---
