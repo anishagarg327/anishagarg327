@@ -90,15 +90,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishagarg327&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" width="60%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishagarg327&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakNum=00F7FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF" width="80%" />
-</p>
-
 ### 🔥 Contribution Graph
 
 <p align="center">
