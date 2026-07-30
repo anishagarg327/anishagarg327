@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <h1>Hi 👋, I'm Anisha Garg</h1>
   <h3>🚀 Software Engineer Intern @ Commudle | B.Tech IT '27</h3>
   
