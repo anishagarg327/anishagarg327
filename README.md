@@ -93,7 +93,7 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishagarg327&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=anishagarg327&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=00F7FF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
