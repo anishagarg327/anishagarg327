@@ -1,22 +1,22 @@
 <div align="center">
-  <h1>Hi 👋, I'm Anisha Garg</h1>
-  <h3>🚀 Software Engineer Intern @ Commudle | B.Tech IT '27</h3>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Developer;Information+Technology+Student;200%2B+LeetCode+Problems;Problem+Solver" alt="Typing SVG" />
+  <h1>Hi 👋, I'm Anisha Garg</h1>
+  <h3>🚀 Software Engineer Intern @ Commudle | B.Tech IT '27</h3>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Developer;Information+Technology+Student;200%2B+LeetCode+Problems;Problem+Solver" alt="Typing SVG" />
 
-  <p>
-    <a href="https://linkedin.com/in/anisha-garg-8ba7442a1" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:anishagarg2048@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/anishagarg327" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
-    </a>
-  </p>
+  <p>
+    <a href="https://linkedin.com/in/anisha-garg-8ba7442a1" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:anishagarg2048@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/anishagarg327" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+    </a>
+  </p>
 </div>
 
 ---
@@ -24,19 +24,19 @@
 ### 👩‍💻 About Me
 
 <table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🎓 <b>Education:</b> B.Tech IT @ Bharati Vidyapeeth’s College of Engineering (GGSIPU) <i>(2023 - 2027)</i> | CGPA: <b>9.09</b></li>
-        <li>💼 <b>Experience:</b> Software Engineer Intern @ <b>Commudle</b></li>
-        <li>🧠 <b>Problem Solving:</b> Conquered <b>200+ problems</b> on LeetCode</li>
-        <li>⚡ <b>Interests:</b> Building scalable frontends, interactive web apps, and AI Integrations</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
-    </td>
-  </tr>
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎓 <b>Education:</b> B.Tech IT @ Bharati Vidyapeeth’s College of Engineering (GGSIPU) <i>(2023 - 2027)</i> | CGPA: <b>9.09</b></li>
+        <li>💼 <b>Experience:</b> Software Engineer Intern @ <b>Commudle</b></li>
+        <li>🧠 <b>Problem Solving:</b> Conquered <b>200+ problems</b> on LeetCode</li>
+        <li>⚡ <b>Interests:</b> Building scalable frontends, interactive web apps, and AI Integrations</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -44,9 +44,9 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,js,ts,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap,vite,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,js,ts,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap,vite,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -54,10 +54,10 @@
 ### 🧠 Core Fundamentals
 
 <p align="center">
-  <br>
-  🧬 <b>Data Structures</b> &nbsp; | &nbsp; 🧱 <b>OOPS Concepts</b> &nbsp; | &nbsp; 🗄️ <b>DBMS</b> <br><br>
-  💻 <b>Operating Systems</b> &nbsp; | &nbsp; 🌐 <b>Computer Networks</b> &nbsp; | &nbsp; 📐 <b>Software Engineering</b>
-  <br><br>
+  <br>
+  🧬 <b>Data Structures</b> &nbsp; | &nbsp; 🧱 <b>OOPS Concepts</b> &nbsp; | &nbsp; 🗄️ <b>DBMS</b> <br><br>
+  💻 <b>Operating Systems</b> &nbsp; | &nbsp; 🌐 <b>Computer Networks</b> &nbsp; | &nbsp; 📐 <b>Software Engineering</b>
+  <br><br>
 </p>
 
 ---
@@ -93,9 +93,9 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=anishagarg327&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=00F7FF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishagarg327&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <i>"Consistency + Code = Growth 🚀"</i>
+  <i>"Consistency + Code = Growth 🚀"</i>
 </p>
